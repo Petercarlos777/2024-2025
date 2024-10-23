@@ -6,3 +6,7 @@ Que hace el proyecto es útil
 Cómo pueden comenzar los usuarios con el proyecto.
 Dónde pueden recibit ayuda los usuarios con tu proyecto.
 Quien mantienee y contribuye con el proyecto.
+
+
+
+Se va a liar la cosa con un doble cambio.
